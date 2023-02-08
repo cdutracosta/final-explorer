@@ -59,7 +59,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:andreviapiana/Food-Explorer.git
+
 ```
 ___
 
